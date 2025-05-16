@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #aa5a55;
+    background-color: #ffffff;
 }
 
 
@@ -103,7 +103,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #ffffff;
+    background-color: #f0d853;
 
 }
 
@@ -132,13 +132,13 @@ h2 {
 }
 
 .formulario button {
-    background-color: #3d0447;
+    background-color: #e4d726;
     border: none;
     font-weight: bold;
 }
 
 .form-control {
-    background-color: #a53a6f;
+    background-color: #e0d038;
 }
 .menu-acessibilidade{
     position: fixed;
